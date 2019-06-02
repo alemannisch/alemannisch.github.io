@@ -20,7 +20,7 @@ Voice:
 ### Wörterbücher
 
 Schweizerisches Idiotikon: https://www.idiotikon.ch/
-Wiktionary: https://en.wiktionary.org/wiki/Category:Alemannic_German_language
+Wiktionary: https://als.wikipedia.org und https://en.wiktionary.org/wiki/Category:Alemannic_German_language
 
 ### Datensätze
 
