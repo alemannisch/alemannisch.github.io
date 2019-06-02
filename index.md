@@ -19,7 +19,7 @@ Voice:
 
 ### Wörterbücher
 
-Schweizerisches Idiotikon: https://www.idiotikon.ch/
+Schweizerisches Idiotikon: https://www.idiotikon.ch/  
 Wiktionary: https://als.wikipedia.org und https://en.wiktionary.org/wiki/Category:Alemannic_German_language
 
 ### Datensätze
@@ -34,7 +34,7 @@ S maschinelle Lärne isch hiit e Busteen vu de meischte bekannde Plattforme.
 
 #### FastText pretrained vectors
 
-Common Crawl - https://fasttext.cc/docs/en/crawl-vectors.html
+Common Crawl - https://fasttext.cc/docs/en/crawl-vectors.html  
 Wikipedia - https://fasttext.cc/docs/en/pretrained-vectors.html
 
 
