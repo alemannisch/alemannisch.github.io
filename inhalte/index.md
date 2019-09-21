@@ -7,11 +7,11 @@ Des werre mr spaeter mol ennre
 
 ### Europawahl Erklärfilm auf Alemannisch (Raum Bodensee)
 3:40  
-[![Video luegge](https://i.ytimg.com/vi/2dVhtN18X_k/0.jpg)](https://www.youtube.com/watch?v=2dVhtN18X_k){:height="10%" width="10%"}
+[![Video luegge](https://i.ytimg.com/vi/2dVhtN18X_k/0.jpg)](https://www.youtube.com/watch?v=2dVhtN18X_k){:height="5%" width="5%"}
 
 ### Kommunalwahl Erklärfilm auf Alemannisch (Raum Baden) 
 3:16
-[![Video luegge](https://i.ytimg.com/vi/nfoXq9TDYf4/0.jpg)](https://www.youtube.com/watch?v=nfoXq9TDYf4){:height="10%" width="10%"}
+[![Video luegge](https://i.ytimg.com/vi/nfoXq9TDYf4/0.jpg)](https://www.youtube.com/watch?v=nfoXq9TDYf4){:height="5%" width="5%"}
 
 [Sehr verständlich wenn man nordbadische Dialekte kennt)
 
