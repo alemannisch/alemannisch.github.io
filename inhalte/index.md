@@ -12,14 +12,12 @@ title: Inhalte
 Des werre mr spaeter mol ennre
 
 
-### Europawahl Erklärfilm auf Alemannisch (Raum Bodensee)
-3:40  
+### Europawahl Erklärfilm auf Alemannisch (Raum Bodensee) 3:40  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2dVhtN18X_k
 " target="_blank"><img src="https://i.ytimg.com/vi/2dVhtN18X_k/0.jpg" 
 alt="Video luegge" width="240" height="180" border="10" /></a>
 
-### Kommunalwahl Erklärfilm auf Alemannisch (Raum Baden) 
-3:16
+### Kommunalwahl Erklärfilm auf Alemannisch (Raum Baden) 3:16
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nfoXq9TDYf4
 " target="_blank"><img src="https://i.ytimg.com/vi/nfoXq9TDYf4/0.jpg" 
 alt="Video luegge" width="240" height="180" border="10" /></a>
@@ -31,8 +29,10 @@ alt="Video luegge" width="240" height="180" border="10" /></a>
 alt="Video luegge" width="240" height="180" border="10" /></a>
 [Auch verständlich]
 
-Kommunalwahl Erklärfilm auf Pfälzisch 2:27
-https://www.youtube.com/watch?v=2K1XtZPy5Kw
+### Kommunalwahl Erklärfilm auf Pfälzisch 2:27
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2K1XtZPy5Kw
+" target="_blank"><img src="https://i.ytimg.com/vi/2K1XtZPy5Kw/0.jpg" 
+alt="Video luegge" width="240" height="180" border="10" /></a>
 
 Die Firma Boschert hat ein Film über sich drehen lassen - auf Alemannisch. "Boschert Image Film (Original Sprache Alemannisch)" 9:16
  https://www.youtube.com/watch?v=dfWlw8PFbr8&t=2s
