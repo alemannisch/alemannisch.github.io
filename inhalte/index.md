@@ -25,8 +25,10 @@ alt="Video luegge" width="240" height="180" border="10" /></a>
 alt="Video luegge" width="240" height="180" border="10" /></a>
 [Sehr verständlich wenn man nordbadische Dialekte kennt)
 
-Kommunalwahl Erklärfilm auf Schwäbisch 2:17
-https://www.youtube.com/watch?v=-BEBrjL3wpc
+### Kommunalwahl Erklärfilm auf Schwäbisch 2:17
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-BEBrjL3wpc
+" target="_blank"><img src="https://i.ytimg.com/vi/-BEBrjL3wpc/0.jpg" 
+alt="Video luegge" width="240" height="180" border="10" /></a>
 [Auch verständlich]
 
 Kommunalwahl Erklärfilm auf Pfälzisch 2:27
