@@ -4,8 +4,10 @@ title: Inhalte
 
 Des werre mr spaeter mol ennre
 
-Europawahl Erklärfilm auf Alemannisch (Raum Bodensee) 3:40
-https://www.youtube.com/watch?v=2dVhtN18X_k
+
+#### Europawahl Erklärfilm auf Alemannisch (Raum Bodensee)
+3:40  
+[![Video luegge](https://i.ytimg.com/vi/2dVhtN18X_k/0.jpg)](https://www.youtube.com/watch?v=2dVhtN18X_k){:height="10%" width="10%"}
 
 Kommunalwahl Erklärfilm auf Alemannisch (Raum Baden) 3:16
 https://www.youtube.com/watch?v=nfoXq9TDYf4
