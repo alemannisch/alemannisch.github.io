@@ -4,7 +4,8 @@ title: Inhalte
 
 <style>
  a img {
-  border-top: 10px solid black;
+  border-top: 20px solid #24292e;
+  border-bottom: 20px solid #24292e;
  }
 </style>
 
