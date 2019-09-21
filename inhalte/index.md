@@ -11,7 +11,7 @@ Des werre mr spaeter mol ennre
 
 ### Kommunalwahl Erklärfilm auf Alemannisch (Raum Baden) 
 3:16
-[![Video luegge](https://iytimg.com/vi/nfoXq9TDYf4/0.jpg)](https://www.youtube.com/watch?v=nfoXq9TDYf4){:height="10%" width="10%"}
+[![Video luegge](https://i.ytimg.com/vi/nfoXq9TDYf4/0.jpg)](https://www.youtube.com/watch?v=nfoXq9TDYf4){:height="10%" width="10%"}
 
 [Sehr verständlich wenn man nordbadische Dialekte kennt)
 
