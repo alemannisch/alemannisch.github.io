@@ -25,8 +25,8 @@ alt="Video luegge" width="240" height="180" border="10" /></a>
 alt="Video luegge" width="240" height="180" border="10" /></a>
 
 ### "Boschert Image Film (Original Sprache Alemannisch)" Die Firma Boschert hat einen Film über sich drehen lassen  9:16
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dfWlw8PFbr8&t=2s
-" target="_blank"><img src="https://i.ytimg.com/vi/dfWlw8PFbr8&t=2s/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dfWlw8PFbr8
+" target="_blank"><img src="https://i.ytimg.com/vi/dfWlw8PFbr8/0.jpg" 
 alt="Video luegge" width="240" height="180" border="10" /></a>
 
 ### Interview mit Kapitän von MS Konstanz 0:47
