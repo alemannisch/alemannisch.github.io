@@ -2,13 +2,6 @@
 title: Inhalte
 ---
 
-<style>
- a img {
-  border-top: 20px solid #24292e;
-  border-bottom: 20px solid #24292e;
- }
-</style>
-
 ### Europawahl Erklärfilm auf Alemannisch (Raum Bodensee) 3:40  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2dVhtN18X_k
 " target="_blank"><img src="https://i.ytimg.com/vi/2dVhtN18X_k/0.jpg" 
