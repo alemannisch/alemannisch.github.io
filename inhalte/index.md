@@ -20,8 +20,9 @@ alt="Video luegge" width="240" height="180" border="10" /></a>
 
 ### Kommunalwahl Erklärfilm auf Alemannisch (Raum Baden) 
 3:16
-[![Video luegge](https://i.ytimg.com/vi/nfoXq9TDYf4/0.jpg)](https://www.youtube.com/watch?v=nfoXq9TDYf4){:height="5%" width="5%"}
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nfoXq9TDYf4
+" target="_blank"><img src="https://i.ytimg.com/vi/nfoXq9TDYf4/0.jpg" 
+alt="Video luegge" width="240" height="180" border="10" /></a>
 [Sehr verständlich wenn man nordbadische Dialekte kennt)
 
 Kommunalwahl Erklärfilm auf Schwäbisch 2:17
