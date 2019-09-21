@@ -2,6 +2,12 @@
 title: Inhalte
 ---
 
+<style>
+ a img {
+  border-top: 10px solid black;
+ }
+</style>
+
 Des werre mr spaeter mol ennre
 
 
