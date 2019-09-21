@@ -30,8 +30,7 @@ alt="Video luegge" width="240" height="180" border="10" /></a>
 alt="Video luegge" width="240" height="180" border="10" /></a>
 
 ### Interview mit Kapitän von MS Konstanz 0:47
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=v=Q3-U__sP_qA
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Q3-U__sP_qA
 " target="_blank"><img src="https://i.ytimg.com/vi/v=Q3-U__sP_qA/0.jpg" 
 alt="Video luegge" width="240" height="180" border="10" /></a>
 [Leider sehr kurz]
-xx
